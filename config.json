@@ -1,0 +1,30 @@
+{
+    "BOT":{
+"username": "evomc",
+"version": "1.19",
+"auth": "mojang",
+"password": ""
+},
+
+    "SERVER":{
+"host": "103.243.173.166",
+"port": "25735"
+},
+
+    "AUTO-AUTH":{
+"enabled": false,
+"password": "Evomc2127@"
+},
+
+    "ANTI-AFK":{
+"enabled": false
+},
+
+    "DASHBOARD":{
+"enabled": false
+},
+
+    "LOOKER":{
+"enabled": true
+}
+} 
